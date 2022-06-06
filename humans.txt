@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Simon Mwangi simon@gmail.com
 
 # THANKS
 
