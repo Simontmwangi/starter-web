@@ -6,7 +6,7 @@
 Simon Mwangi simon@gmail.com
 
 # THANKS
-
+all my students
     <name>
 
 # TECHNOLOGY COLOPHON
